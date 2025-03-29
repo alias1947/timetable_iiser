@@ -20,9 +20,9 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   # Replace with your repository URL from GitHub Desktop
+   [# Replace with your repository URL from GitHub Desktop
    git clone <your-repository-url>
-   cd timetable-generator
+   cd timetable-generator](https://github.com/alias1947/timetable_iiser)
    ```
 
 2. Install backend dependencies:
