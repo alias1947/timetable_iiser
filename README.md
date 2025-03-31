@@ -1,6 +1,6 @@
 # IISERB Timetable Generator
 
-A web application for generating conflict-free timetables for IISER Bhopal courses. The application allows users to select courses and automatically generates a timetable that avoids scheduling conflicts, taking into account lectures, labs, and tutorials.
+A web application for generating conflict-free timetables for IISER Bhopal courses. The application allows users to select courses and automatically generates a timetable that avoids scheduling conflicts, taking into account lectures, labs, and tutorials. (By: Jayesh Patil)
 
 ## Features
 
@@ -78,6 +78,7 @@ timetable-generator/
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+contact:jayesh20157@gmail.com 
 
 ## License
 
